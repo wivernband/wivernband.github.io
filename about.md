@@ -17,10 +17,12 @@ permalink: /about/
 * 一门语言: Python 
 + 一个领域: 围绕监控与运维
   - 基于ITM(IBM Tivoli Monitoring)/OMNIbus(IBM Tivoli Netcool)
-  - 基于Zabbix
   - 基于CDM(Common Data Model)通用配置项模型
+  - 基于Zabbix
 + 不同场景: 数据始终是业务的核心，不同的工具适合不同的场景
+  - MySQL  
   - MongoDB
+  - Redis
   - Elasticsearch
-  - MySQL
+  
 
